@@ -3,7 +3,7 @@ h2{
 }
 
 p{
-  color:blue;
+  color:red;
   display: list-item;
   list-style: disc inside;
   margin-left: 20px;
