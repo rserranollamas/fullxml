@@ -1,9 +1,9 @@
 h2{
-  color:blue;
+  color:black;
 }
 
 p{
-  color:red;
+  color:blue;
   display: list-item;
   list-style: disc inside;
   margin-left: 20px;
