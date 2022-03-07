@@ -1,5 +1,9 @@
+h2{
+  color:blue;
+}
+
 p{
-  color:blue !important;
+  color:blue;
   display: list-item;
   list-style: disc inside;
   margin-left: 20px;
